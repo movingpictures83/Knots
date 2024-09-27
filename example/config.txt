@@ -1,0 +1,2 @@
+Prefix plugins/Knots/example/
+Plugin Knots inputfile parameters.txt outputfile knots.rds
